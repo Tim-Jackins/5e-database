@@ -1,5 +1,20 @@
 [
 	{
+		"index": "treasure",
+		"name": "Treasure",
+		"equipment": [
+			{
+				"name": "Silver Bar",
+				"url": "/api/equipment/silver_bar"
+			},
+			{
+				"name": "Gold Bar",
+				"url": "/api/equipment/gold_bar"
+			}
+		],
+		"url": "/api/equipment-categories/treasure"
+	},
+	{
 		"index": "weapon",
 		"name": "Weapon",
 		"equipment": [

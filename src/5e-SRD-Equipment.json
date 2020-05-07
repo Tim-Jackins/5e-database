@@ -1,5 +1,27 @@
 [
   {
+    "index": "silver_bar",
+    "name": "Silver Bar",
+    "equipment_category": "Treasure",
+    "cost": {
+      "quantity": 25,
+      "unit": "gp"
+    },
+    "weight": 5,
+    "url": "/api/equipment/silver_bar"
+  },
+  {
+    "index": "gold_bar",
+    "name": "Gold Bar",
+    "equipment_category": "Treasure",
+    "cost": {
+      "quantity": 250,
+      "unit": "gp"
+    },
+    "weight": 5,
+    "url": "/api/equipment/silver_bar"
+  },
+  {
     "index": "club",
     "name": "Club",
     "equipment_category": "Weapon",
